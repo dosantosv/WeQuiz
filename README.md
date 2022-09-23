@@ -2,7 +2,7 @@
 O sistema de WeQuiz é um jogo Quiz voltado a programação.
 
 ## Tecnologias
-O aplicativo WeCar será desenvolvido em:
+O aplicativo WeQuiz será desenvolvido em:
 
 - Flutter
 - Dart
